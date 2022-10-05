@@ -2,11 +2,17 @@
 
 
 
+
 a {
-    color:#222a;
-    text-decoration:#2224 wavy underline;
-    transition:all 0.3s;
-    
+  color: rgb(217, 218, 230);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover{
+  color: #fff;
+  font-size: 1.2em;
+
 }
 
 canvas {
@@ -42,10 +48,7 @@ ul {
     padding: 16px;
 }
 
-a {
-   color: rgb(217, 218, 230);
-text-decoration: none; 
-}
+
 
 header img {
 width: 15pc;
@@ -125,7 +128,7 @@ footer p {
 }
 footer a {
   color: #f6f4f3;
-  text-decoration: none;
+  
 }
 footer a:hover {
   color: #276fbf;
